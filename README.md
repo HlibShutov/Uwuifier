@@ -10,7 +10,7 @@ Inspiwation fwom https://uwuifier.com/
 Git clone repository
 
 ### Packer
-plugins.lua
+plugins.lua:
 use {"path/to/Uwuifier"}
 
 ### Lazy
