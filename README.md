@@ -8,6 +8,8 @@ Inspiwation fwom https://uwuifier.com/
 
 # Instalation
 Git clone repository
+=======
+Git clone repository, install [pynvim](https://github.com/neovim/pynvim) and pip install uwuipy
 
 ### Packer
 plugins.lua:
