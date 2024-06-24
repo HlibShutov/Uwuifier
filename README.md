@@ -9,10 +9,10 @@ Inspiwation fwom https://uwuifier.com/
 # Instalation
 Git clone repository
 
-## Packer
+### Packer
 use {"path/to/Uwuifier"}
 
-## Lazy
+### Lazy
 Do not use lazy.
 
 # Usage
