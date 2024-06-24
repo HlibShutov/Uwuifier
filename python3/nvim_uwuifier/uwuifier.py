@@ -26,5 +26,3 @@ class Uwuifier:
                 comment = line[comment_index + len(comment_char):]
                 uwuified_comment = self.uwuifier.uwuify(comment)
                 buffer[i] = line[:comment_index + len(comment_char)] + uwuified_comment
-                print(buffer[i])
-
