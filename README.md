@@ -19,3 +19,6 @@ Do not use lazy.
 # Usage
 ~~read the docs~~
 Enter visual mode, select text, type :UwU
+
+### Supported languages
+python, assembler, c, c++
