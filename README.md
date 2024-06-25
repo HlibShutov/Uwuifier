@@ -36,5 +36,5 @@ Do not use lazy.
 Enter visual mode, select text, type :UwU
 #### !!! Dont delete '<, '>
 
-### Supported languages
+### Supported languages (default)
 python, c, c++
