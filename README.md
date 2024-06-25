@@ -9,10 +9,15 @@ Inspiwation fwom https://uwuifier.com/
 # Instalation
 Git clone repository
 =======
-Git clone repository, install [pynvim](https://github.com/neovim/pynvim) and pip install uwuipy
+##### Git clone repository
+git clone https://github.com/HlibShutov/Uwuifier.git__
+##### Install [pynvim](https://github.com/neovim/pynvim) 
+pip3 install pynvim
+##### Install uwuipy
+pip install uwuipy
 
 ### Packer
-plugins.lua:
+plugins.lua:__
 use {"path/to/Uwuifier"}
 
 ### Lazy
@@ -20,7 +25,8 @@ Do not use lazy.
 
 # Usage
 ~~read the docs~~
-Enter visual mode, select text, type :UwU
+Enter visual mode, select text, type :UwU__
+!!! Dont delete '<, '>
 
 ### Supported languages
-python, assembler, c, c++
+python, c, c++
