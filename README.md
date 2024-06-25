@@ -7,7 +7,6 @@ Inspiwation fwom https://uwuifier.com/
 :3
 
 # Instalation
-Git clone repository
 =======
 ##### Git clone repository
 ```
