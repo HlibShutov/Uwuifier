@@ -11,7 +11,7 @@ Git clone repository
 =======
 ##### Git clone repository
 ```
-git clone https://github.com/HlibShutov/Uwuifier.git__
+git clone https://github.com/HlibShutov/Uwuifier.git
 ```
 ##### Install [pynvim](https://github.com/neovim/pynvim) 
 ```
